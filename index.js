@@ -11,7 +11,7 @@ function currentLine(){
   
 }
 
-var katzDeliLine = [];
+//var katzDeliLine = [];
  
-console.log(takeANumber(katzDeliLine, "Ada"));
-console.log(takeANumber(katzDeliLine, "Grace"));
+//console.log(takeANumber(katzDeliLine, "Ada"));
+//console.log(takeANumber(katzDeliLine, "Grace"));
