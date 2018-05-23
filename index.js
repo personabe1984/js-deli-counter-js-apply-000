@@ -21,9 +21,8 @@ function currentLine(line){
       if(i === line.length-1){
         tempString += ` ${i+1}. ${line[i]}`;
       }else{
-        
+        tempString += ` ${i+1}. ${line[i]},`;
       }
-      tempString += ` ${i+1}. ${line[i]},`;
     }
     return tempString;
   }
