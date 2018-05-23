@@ -4,7 +4,7 @@ function takeANumber(katzDeliLine, name){
 }
 
 function nowServing(katzDeliLine){
-  if (katzDeliLine===)
+  if (katzDeliLine === undefined || katzDeliLine === )
 }
 
 function currentLine(){
