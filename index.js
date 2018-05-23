@@ -19,6 +19,8 @@ function currentLine(line){
     var tempString = "The line is currently:";
     for(let i = 0; i < line.length; i++){
       if(i === line.length-1){
+        tempString += ` ${i+1}. ${line[i]}`;
+      }else{
         
       }
       tempString += ` ${i+1}. ${line[i]},`;
