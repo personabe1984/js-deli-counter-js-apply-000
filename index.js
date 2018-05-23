@@ -10,3 +10,7 @@ function nowServing(){
 function currentLine(){
   
 }
+
+var katzDeliLine = [];
+ 
+takeANumber(katzDeliLine, "Ada");
