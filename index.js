@@ -10,7 +10,6 @@ function nowServing(katzDeliLine){
     var firstPerson = katzDeliLine.shift();
     return `Currently serving ${firstPerson}.`;
   }
-  
 }
 
 function currentLine(){
