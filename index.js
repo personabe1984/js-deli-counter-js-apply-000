@@ -14,3 +14,4 @@ function currentLine(){
 var katzDeliLine = [];
  
 console.log(takeANumber(katzDeliLine, "Ada"));
+console.log(takeANumber(katzDeliLine, "Grace"));
